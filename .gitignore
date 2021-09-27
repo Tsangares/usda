@@ -1,0 +1,5 @@
+*.csv
+*.json
+*~
+.apikey.json
+__pycache__
